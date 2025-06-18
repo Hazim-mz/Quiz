@@ -177,3 +177,4 @@ def main():
                         st.session_state.feedback = ""
 
 if __name__ == "__main__":
+    main()

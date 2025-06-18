@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import json
 import pandas as pd
@@ -358,5 +357,4 @@ def main():
                         st.session_state.feedback = ""
 
 if __name__ == "__main__":
->>>>>>> 3aff787cace7edfcdb0ac07f62aa890df6ba3aed
     main()
